@@ -20,7 +20,7 @@ exports.config = {
     // directory is where your package.json resides, so `wdio` will be called from there.
     //
     specs: [
-        '/Users/thuvvareka/gitlabrepo/webdriverio-react-js/src/e2e/tests/ActivityTest.js'
+        '/Users/thuvvareka/Documents/github/WebdriverIO-Javascript/src/e2e/tests/ActivityTest.js'
     ],
     // Patterns to exclude.
     exclude: [
